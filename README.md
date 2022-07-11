@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Visily
+- 🔭 I’m currently working at Visily.ai
 - 🌱 I’m currently learning Rust, Web3
 - 👯 I’m looking to collaborate on Web3 projects
 - 🤔 I’m looking for help with Rust, Golang
