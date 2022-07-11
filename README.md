@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with Rust, Golang
 - 💬 Ask me about Javasscipt
 - 📫 How to reach me: Contact me at duonghuy1401@gmail.com
-- ⚡ Fun fact: I hate OOP 😎
+- ⚡ Fun fact: I hate CSS 😎
